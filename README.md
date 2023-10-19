@@ -2,7 +2,7 @@
 📖KnowledgeGPT
 </h1>
 
-Accurate answers and instant citations for your documents.
+Accurate answers and instant citations for all your documents.
 
 ## 🔧 Features
 
