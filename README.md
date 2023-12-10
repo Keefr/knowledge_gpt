@@ -18,7 +18,7 @@ git clone https://github.com/mmz-001/knowledge_gpt
 cd knowledge_gpt
 ```
 
-2. Install dependencies with [Poetry](https://python-poetry.org/) and activate virtual environment🔨
+2. Install dependencies with [Poetry](https://python-poetry.org/) and activate virtual environment🔨.
 
 ```bash
 poetry install
